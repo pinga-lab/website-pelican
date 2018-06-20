@@ -24,7 +24,7 @@ usefulness and, most importantly, call attention to some pitfalls encountered
 in the interpretation of the results. The code and synthetic data required to
 reproduce our results and figures can be found in the accompanying IPython
 notebooks ([ipython.org/notebook](http://ipython.org/notebook))
-at [dx.doi.org/10.6084/m9.figshare.923450](http://dx.doi.org/10.6084/m9.figshare.923450)
+at [dx.doi.org/10.6084/m9.figshare.923450](https://doi.org/10.6084/m9.figshare.923450)
 or [github.com/pinga-lab/paper-tle-euler-tutorial](https://github.com/pinga-lab/paper-tle-euler-tutorial).
 The notebooks also expand the
 analysis presented here. We encourage you to download the data and try it on

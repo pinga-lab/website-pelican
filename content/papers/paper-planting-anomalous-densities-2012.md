@@ -12,7 +12,7 @@ citation: Uieda, L., and V. C. F. Barbosa (2012), Robust 3D gravity gradient inv
 ## Extra supplement
 
 Animation of the groth algorithm:
-[10.6084/m9.figshare.91469](http://dx.doi.org/10.6084/m9.figshare.91469)
+[10.6084/m9.figshare.91469](https://doi.org/10.6084/m9.figshare.91469)
 
 
 <div class="embed-responsive embed-responsive-16by9">

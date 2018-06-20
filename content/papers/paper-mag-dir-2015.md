@@ -14,7 +14,7 @@ citation: Oliveira Jr., V. C., D. P. Sales, V. C. F. Barbosa, and L. Uieda (2015
 The method described in this article has been implemented in the open-source
 geophysics library [Fatiando a Terra](http://www.fatiando.org).
 The method was first introduced in
-[version 0.3](http://dx.doi.org/10.5281/zenodo.16205)
+[version 0.3](https://doi.org/10.5281/zenodo.16205)
 as the `fatiando.gravmag.magdir.DipoleMagDir` class.
 
 ## Abstract
@@ -49,7 +49,7 @@ the crust within almost the same geological time interval.
 
 This paper has undergone open peer-review.
 The original submission, reviews, and replies can be viewed at
-[doi:10.5194/npgd-1-1465-2014](http://dx.doi.org/10.5194/npgd-1-1465-2014).
+[doi:10.5194/npgd-1-1465-2014](https://doi.org/10.5194/npgd-1-1465-2014).
 
 ## Bibtex
 
